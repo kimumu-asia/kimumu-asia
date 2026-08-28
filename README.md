@@ -1,7 +1,6 @@
 ## Research Interests
 
-- Quantitative CT analysis for severe asthma
-- Longitudinal airway and functional lung analysis
+- Quantitative CT analysis
 - Medical imaging AI
 - Multi-agent systems for research automation
 - Local LLM, RAG, and ontology-based knowledge systems
