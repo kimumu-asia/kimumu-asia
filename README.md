@@ -12,7 +12,7 @@
 | Programming | Python, R, JavaScript |
 | Data Analysis | Pandas, NumPy, SciPy, Matplotlib |
 | AI & LLM | PyTorch, Ollama, RAG, Multi-Agent Systems |
-| Medical Imaging | QCT, CT Registration, ITK |
+| Medical Imaging | CT Registration, ITK |
 | Development | Git, GitHub, Linux, Docker |
 
 ## Experience
